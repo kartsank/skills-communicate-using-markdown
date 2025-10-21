@@ -1,3 +1,9 @@
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [x] test for list
+
 # this h1
 ## this is h2
 ###### this is h6
@@ -6,8 +12,6 @@
 - test2
 - test3
 - test4
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
 $ git init
@@ -20,3 +24,4 @@ var myVar = "Hello, world!";
 ``` python
 myVar = "this is python Hello, world!";
 ```
+
